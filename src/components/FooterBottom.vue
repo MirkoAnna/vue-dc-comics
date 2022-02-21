@@ -16,7 +16,7 @@ export default {
     @import "../assets/style/variables.scss";
     .footer-bottom-container {
         width: 100%;
-        height: 15vh;
+        height: 13vh;
         background-color: $footerBottomBackground;
     }
 
