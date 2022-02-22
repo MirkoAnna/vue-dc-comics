@@ -149,7 +149,7 @@ export default {
                     }
                     &.active, 
                     &:hover {
-                    border-bottom: 2px solid $mainBottomBackground;
+                    border-bottom: 3px solid $mainBottomBackground;
                     color: $mainBottomBackground;
                     }
                 }
